@@ -53,7 +53,7 @@ pip install streamlit
 pip install scikit-learn
 streamlit run app.py
 ```
-Sistem Machine Learning dapat diakses melalui link berikut: 
+Sistem Machine Learning dapat diakses melalui link berikut: https://dropoutdc-kzhcafdes6vesfjc9xx3wz.streamlit.app/
 
 ## Conclusion
 kesimpulan proyek data dashboard dan solusi machine learning adalah bahwa ada beberapa faktor yang berpotensi memengaruhi tingkat dropout siswa di institusi pendidikan. Dengan visualisasi dan analisis yang disediakan, kita dapat melihat bahwa tingkat keluar cenderung bervariasi berdasarkan course, status perkawinan, status penerima beasiswa atau scholarship, dan kehadiran siswa. Selain itu, dengan menggunakan model machine learning, kita dapat memprediksi tingkat dropout siswa dan mengidentifikasi siswa yang berisiko tinggi untuk keluar, memungkinkan lembaga pendidikan untuk melakukan intervensi yang tepat waktu dan meningkatkan retensi siswa secara keseluruhan. Kedua alat ini dapat memberikan wawasan yang berharga bagi pengambil keputusan di institusi pendidikan untuk meningkatkan kualitas pendidikan dan mencapai tingkat kelulusan yang lebih tinggi.
